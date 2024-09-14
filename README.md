@@ -1,7 +1,6 @@
 # Calculadora de Médias 🎓🧮
 
-Este é um projeto simples e divertido que ajuda a calcular as médias das suas atividades escolares de maneira prática e eficiente.
-Se você sempre quis saber se está **"Aprovado ✅"** ou **"Reprovado ❌"**, essa calculadora é para você!
+Este é um projeto simples e divertido que ajuda a calcular as médias das suas atividades escolares de maneira prática e eficiente. Se você sempre quis saber se está **"Aprovado ✅"** ou **"Reprovado ❌"**, essa calculadora é para você!
 
 ## Funcionalidades
 
