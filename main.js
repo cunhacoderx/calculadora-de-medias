@@ -53,7 +53,7 @@ function atualizaMediaFinal(){
     const mediaFinal = calculaMediaFinal(); // Calcula a média final das notas.
 
     // Exibe a média calculada na célula correspondente.
-    document.getElementById('media-final-valor').innerHTML = mediaFinal;
+    document.getElementById('media-final-valor').innerHTML = mediaFinal.toFixed(2);
     // Verifica se a média final é maior ou igual à nota mínima e exibe a mensagem correspondente.
     document.getElementById('media-final-resultado').innerHTML = mediaFinal >= notaMinima ? spanAprovado : spanReprovado;
 }
