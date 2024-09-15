@@ -22,6 +22,10 @@ Este é um projeto simples e divertido que ajuda a calcular as médias das suas 
 3. A calculadora soma as notas automaticamente e exibe a média no final da tabela.
 4. O cálculo é atualizado a cada nova atividade adicionada, sem precisar recarregar a página.
 
+## Deploy Online
+
+Confira a aplicação rodando [aqui](https://cunhacoderx-projeto-calculadora-medias.vercel.app/).
+
 ---
 
 Projeto realizado durante as aulas de JavaScript no curso de **Desenvolvedor Full Stack Python** da **EBAC**.  
